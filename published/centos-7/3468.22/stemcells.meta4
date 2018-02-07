@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-stemcell-3468.22-aws-xen-hvm-centos-7-go_agent.tgz">
+    <hash type="md5">09608982bf1a6a8e81eb24bfea86cb8e</hash>
+    <hash type="sha-1">b42c7508a6ee06b6e02389dd1e4646ad5ede170a</hash>
+    <hash type="sha-256">7f774c06196d173d79466e7309a026088d37ecfe64011aefcb1ce5355462dd2f</hash>
+    <hash type="sha-512">3dd2222d652c7067915a01a11a413c3009d33bcb6c226ca9625ff1156e78d21ebffcb613f0dd1e3e03ef80eb29633170277475082370eed9bc1fcd2b2e222ec0</hash>
+    <size>581251483</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/aws/bosh-stemcell-3468.22-aws-xen-hvm-centos-7-go_agent.tgz</url>
+  </file>
+  <file name="bosh-stemcell-3468.22-azure-hyperv-centos-7-go_agent.tgz">
+    <hash type="md5">26c6957babd229cadf0cc99971ee78dc</hash>
+    <hash type="sha-1">b5579ec40cda5ad0f2a335d09aab552d3fbe39f1</hash>
+    <hash type="sha-256">194acc720a70b0750165733031e597ccbd3fc8f3d6f39c91f14e4892114c570f</hash>
+    <hash type="sha-512">ccbc0432c0204bafc7f918abf33e83ad028fc7a629f2dbe6f8917609958ae783afd61f192ac25c95d40438b92f0965b93367fd4e202c0f42111e87f51541a5aa</hash>
+    <size>582345721</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/azure/bosh-stemcell-3468.22-azure-hyperv-centos-7-go_agent.tgz</url>
+  </file>
+  <file name="bosh-stemcell-3468.22-google-kvm-centos-7-go_agent.tgz">
+    <hash type="md5">7b48ae21f49967a3a332d0b50bcde95e</hash>
+    <hash type="sha-1">3d19b2d811a6b5001707a00abf5ea8f6ee32b4c9</hash>
+    <hash type="sha-256">a5dfee41fd437a7e3b873d661e2538af349bf679c922cb329b3ecf320a43480e</hash>
+    <hash type="sha-512">7e36fed3c4210752f21f2622ac4d2e20361a93f14c5f0c0a644b5ae858fdbc240013e524c7a3eb03a20da1d7e5d936335ddc7816539d8eaedbcda956eb8f6d0a</hash>
+    <size>629368716</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/google/bosh-stemcell-3468.22-google-kvm-centos-7-go_agent.tgz</url>
+  </file>
+  <file name="bosh-stemcell-3468.22-openstack-kvm-centos-7-go_agent-raw.tgz">
+    <hash type="md5">c40bb125f06f66d2c67c0a05442c0a9a</hash>
+    <hash type="sha-1">7e51ef5e7e6eeddc9edad975a8218bedfd8e2bf7</hash>
+    <hash type="sha-256">aa11a755591935f7b425d703b4a1ae738bd09d8dec565141761437932de77a4c</hash>
+    <hash type="sha-512">2d7a572ce8897fe28e22b2381da405911201dbbd9772b9f0ef3d07970d7c85993aae40853769d9b336775ddfba84b0a12f86f883ee07247dc939a0fb43270fea</hash>
+    <size>581301972</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/openstack/bosh-stemcell-3468.22-openstack-kvm-centos-7-go_agent-raw.tgz</url>
+  </file>
+  <file name="bosh-stemcell-3468.22-openstack-kvm-centos-7-go_agent.tgz">
+    <hash type="md5">c78c08838e91223f2c1374ae6e399e69</hash>
+    <hash type="sha-1">b40c3aeae42facc4f1a207a5037bd33044f8e909</hash>
+    <hash type="sha-256">3b76802fc094a9d67834ccb45f9fa0bcc7ee655f6edb44b979e9ca0f1b9a9158</hash>
+    <hash type="sha-512">5239a992645fe24e67bcdbebddd4fa06840426e52b4c21825822f2e4c46023790bef543c15f53eb525168bba289bd535b9238067a2df5ec01cc7d3a62bc290f1</hash>
+    <size>623329391</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/openstack/bosh-stemcell-3468.22-openstack-kvm-centos-7-go_agent.tgz</url>
+  </file>
+  <file name="bosh-stemcell-3468.22-vsphere-esxi-centos-7-go_agent.tgz">
+    <hash type="md5">1948fa3d2349a186c8a0cd691f19ab90</hash>
+    <hash type="sha-1">c019afece40c7b7de8db2eecaf391e97ae710233</hash>
+    <hash type="sha-256">63abdba0c0a9a193ffd150c392b8872b3f5c2b595907b4195fda510654c6b2a4</hash>
+    <hash type="sha-512">97c9cd7c3f270fa1b93ebce18cd8b72ce0e70e408e9a212b1141cce21f52be04720957ddb051e6cf4e5b2af39bfcb333d58d3a34260c85d8b7a0c1808620238f</hash>
+    <size>636919984</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/vsphere/bosh-stemcell-3468.22-vsphere-esxi-centos-7-go_agent.tgz</url>
+  </file>
+  <file name="bosh-stemcell-3468.22-warden-boshlite-centos-7-go_agent.tgz">
+    <hash type="md5">0b1e96c2b2fdd5810f966f50c6eb9fe1</hash>
+    <hash type="sha-1">dfb4a0350105443b57aaf31b93602f8fd2510c1b</hash>
+    <hash type="sha-256">dde83c6fcf0be9bbc84df93b97af36c5fb8fc8110a1bc79f667dddb0fdecec6c</hash>
+    <hash type="sha-512">575eaa40dfed5a2ff14940300f45963ace8a2ff53d24f32799faeb53d332982b63d29d11b518d7424113039537745b0976167eb1176433fba382757023bad9be</hash>
+    <size>574091616</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/warden/bosh-stemcell-3468.22-warden-boshlite-centos-7-go_agent.tgz</url>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
