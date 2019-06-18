@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-stemcell-3763.26-aws-xen-hvm-centos-7-go_agent.tgz">
+    <hash type="md5">c9b480111a39797565f9a6740b45664c</hash>
+    <hash type="sha-1">dfd9c4e2d17fa44ed5d341522831d5363a8e0005</hash>
+    <hash type="sha-256">9577c182a885159cbd7cdd8ab9de081d49ba5805b50a2e10f1df6eadd2f726ca</hash>
+    <hash type="sha-512">78190908db22a1bebc688c9acad7983ec24b939cdac955f024f171422105255d7b045bcb60f03cffa8d5346ddf318819c80dfa9c674f8158cd6ad1113e1c344d</hash>
+    <size>613287830</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells-candidate/aws/bosh-stemcell-3763.26-aws-xen-hvm-centos-7-go_agent.tgz</url>
+    <version>3763.26</version>
+  </file>
+  <file name="bosh-stemcell-3763.26-azure-hyperv-centos-7-go_agent.tgz">
+    <hash type="md5">d1154b7bd73e4ef8c3cecccc32753d60</hash>
+    <hash type="sha-1">ae78fda38e713b3c4c85efad109ec030af069c08</hash>
+    <hash type="sha-256">290a8fef2ac506974706c22e6e3dec560db9c156b40b5b238ef03dcb757292a9</hash>
+    <hash type="sha-512">ffde60fd6cbacae7bf5ca8e4925ae977e93ddfef0ec5b100962551ac056fc7f1d21f153aaedf242f298e1265f31c8570cd7e6de39bbb50ad6621c6127c71ba79</hash>
+    <size>614655418</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells-candidate/azure/bosh-stemcell-3763.26-azure-hyperv-centos-7-go_agent.tgz</url>
+    <version>3763.26</version>
+  </file>
+  <file name="bosh-stemcell-3763.26-google-kvm-centos-7-go_agent.tgz">
+    <hash type="md5">c7152ee3ef994425cafd70d995052553</hash>
+    <hash type="sha-1">784b2ca74af633fccb664f453ac665ca48c21044</hash>
+    <hash type="sha-256">d3972e711f46f78a05327a1f4735efc46487eaeb88567be2a5910c130de58dcc</hash>
+    <hash type="sha-512">b2807e557d3247ba16ffd42e00cf0186eaabca4adb5a14f288c75d9a904d5d57ab8414f820159439a0c0ba74a46fa4148c92ee216ac96dbaf3e2bb22864ff830</hash>
+    <size>662794391</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells-candidate/google/bosh-stemcell-3763.26-google-kvm-centos-7-go_agent.tgz</url>
+    <version>3763.26</version>
+  </file>
+  <file name="bosh-stemcell-3763.26-openstack-kvm-centos-7-go_agent-raw.tgz">
+    <hash type="md5">c5c66c05197cba8912c49c73fc309fc6</hash>
+    <hash type="sha-1">a9caf587458b5bc52b23df7c38c6d3842ecdeb63</hash>
+    <hash type="sha-256">f3612ffe87e8eeb758f98db620e504d9f7efd6f03a5a8d478b99ce36682d0e47</hash>
+    <hash type="sha-512">5fd8d362a7f0611f001ddc297b7bd95f75975b42b6b8a47d85df3df0dcb57cc0e96d5eaafc3ad3573f06ee8d53a89c9d66ca2553c3e115b0e8127c68aed3a1b5</hash>
+    <size>613528547</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells-candidate/openstack/bosh-stemcell-3763.26-openstack-kvm-centos-7-go_agent-raw.tgz</url>
+    <version>3763.26</version>
+  </file>
+  <file name="bosh-stemcell-3763.26-openstack-kvm-centos-7-go_agent.tgz">
+    <hash type="md5">2042f426c0770eaa798fff0fc6399f60</hash>
+    <hash type="sha-1">b7650cdcdc7980b1ad451d8a9d15bd21f806d9cf</hash>
+    <hash type="sha-256">6ccf23a96e9da9b832529845260825756dd20cf61bb80c2498887870e4115513</hash>
+    <hash type="sha-512">996a279ec4d53e040eadbd1a3f3ce67ef25b55b9f1aa9944577765ece2b0eac0ae673c8328cae54ce85974445625b22bdeaf5ea8bbd03a652e7a94d80622e1e6</hash>
+    <size>657390917</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells-candidate/openstack/bosh-stemcell-3763.26-openstack-kvm-centos-7-go_agent.tgz</url>
+    <version>3763.26</version>
+  </file>
+  <file name="bosh-stemcell-3763.26-vcloud-esxi-centos-7-go_agent.tgz">
+    <hash type="md5">46f76c0cd27b7c3cee1abb16fc80126e</hash>
+    <hash type="sha-1">5846f6ee9e92f2cca21cf33540e9565e95309bfa</hash>
+    <hash type="sha-256">e38537a7b751b94c7dfb982218e640386443c39cf8f3ce7b98586dd459039c40</hash>
+    <hash type="sha-512">7c415c195604cbb52b38930658b9b1f95f561e82a751218e5d009e80e7dd2095b25904acfe4963be029071d19e98a9f8db18964281c16bdfd2ab6d9868b7432f</hash>
+    <size>681207725</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells-candidate/vcloud/bosh-stemcell-3763.26-vcloud-esxi-centos-7-go_agent.tgz</url>
+    <version>3763.26</version>
+  </file>
+  <file name="bosh-stemcell-3763.26-vsphere-esxi-centos-7-go_agent.tgz">
+    <hash type="md5">65a8d53e501ac3fe7f1d6583d672749f</hash>
+    <hash type="sha-1">1376423bc28cc396839373e9dd4e2d5f404502c7</hash>
+    <hash type="sha-256">b0473b22212c9756149e872de2b7d84777df8cfc909d9e17cc403b83a90346cb</hash>
+    <hash type="sha-512">1d61869b7cdc7972776095ef3e779ea339bbebe7fa72c0e63b7b7cbeb63a3893086457e11483ae3b2bc0934f4d216f9b721c327eebdb1382ec388515a8142ffe</hash>
+    <size>681214564</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells-candidate/vsphere/bosh-stemcell-3763.26-vsphere-esxi-centos-7-go_agent.tgz</url>
+    <version>3763.26</version>
+  </file>
+  <file name="bosh-stemcell-3763.26-warden-boshlite-centos-7-go_agent.tgz">
+    <hash type="md5">483f61cb0fe0bda2d72749bec2f9aebb</hash>
+    <hash type="sha-1">9da455d5b625cf7201cdaef1c5395c2b21e3e229</hash>
+    <hash type="sha-256">c1c20831a2f6ba12dc48b547d2a38d235f6c3e11e5955cc9cf26d66d05bc90b4</hash>
+    <hash type="sha-512">d65f4931c0849570d5b7ecb99cb7e0c1a3244a44c0bacc08db409f40615a1ed86eaf8276354320935f3627b89f1b858a1844d669ece93645a90e89f2c88080b1</hash>
+    <size>605116411</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells-candidate/warden/bosh-stemcell-3763.26-warden-boshlite-centos-7-go_agent.tgz</url>
+    <version>3763.26</version>
+  </file>
+  <file name="stemcell-trigger">
+    <hash type="md5">d41d8cd98f00b204e9800998ecf8427e</hash>
+    <hash type="sha-1">da39a3ee5e6b4b0d3255bfef95601890afd80709</hash>
+    <hash type="sha-256">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</hash>
+    <hash type="sha-512">cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</hash>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells-candidate/stemcell-trigger-3763.26</url>
+    <version>3763.26</version>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
