@@ -1,13 +1,22 @@
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="bosh-stemcell-250.126-openstack-kvm-ubuntu-xenial-go_agent-raw.tgz">
-    <hash type="sha-512">85220b49a578a709d9f9254befe12dc5aadef74faddce3cc899581aed748c9d3c8424b77fae283382450fb195df1e9cbe5b28789dcaf986192fd99552a0f850f</hash>
-    <hash type="sha-256">acb13ed4cd1250f0deb563b87e4a2bb6c7aac434c919d33f06039fc2050c222e</hash>
-    <hash type="sha-1">8eabd1e84e42d30a61ece1b3a05b09f4eac5d867</hash>
-    <hash type="md5">5b61ed01c4ca22daa11ab8ed69137ebd</hash>
-    <size>526923380</size>
+    <hash type="sha-512">7cb886cae25c104ec647ea1c831493584c2585edd4a9c8cc1ccbfa28951c264f5107fdb17b82b789193c1314abc85d87777378db8d49fcba27d1d6cb15b73b30</hash>
+    <hash type="sha-256">4435da4451f64d65e84f45f6aa975f0e845d4ac71080ca772cf7f1acbdc1a54d</hash>
+    <hash type="sha-1">1280ba9dfa7e5c7f0bcc59cd2c6299a310218151</hash>
+    <hash type="md5">643308da27619b95f77260597bd13d82</hash>
+    <size>518517394</size>
     <url>https://s3.amazonaws.com/bosh-core-stemcells-candidate/openstack/bosh-stemcell-250.126-openstack-kvm-ubuntu-xenial-go_agent-raw.tgz</url>
     <version>250.126</version>
   </file>
+  <file name="bosh-stemcell-250.126-openstack-kvm-ubuntu-xenial-go_agent.tgz">
+    <hash type="sha-512">2cdb9bfd72e599d931a79f717b504ff501c12bf487e06f05cf7a48f46ff3082957498bf84ed5ed76da5988cca8625ff2d1fb59faf698919384db306971069477</hash>
+    <hash type="sha-256">c28db7e26228a1e0aa4f191c1d6579e1d047c8532dafd27e4907c31c5cd5ba3c</hash>
+    <hash type="sha-1">65090b94c45a31f08e1f7d2283cfbe7b1f194528</hash>
+    <hash type="md5">32261a030a16763247cb816a0008d929</hash>
+    <size>555435370</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells-candidate/openstack/bosh-stemcell-250.126-openstack-kvm-ubuntu-xenial-go_agent.tgz</url>
+    <version>250.126</version>
+  </file>
   <generator>metalink-repository-resource/0.0.0</generator>
-  <published>2019-10-16T20:50:15.017163797Z</published>
+  <published>2019-10-16T23:54:15.740464801Z</published>
 </metalink>
