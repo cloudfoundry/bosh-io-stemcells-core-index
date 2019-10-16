@@ -1,13 +1,22 @@
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="bosh-stemcell-456.36-openstack-kvm-ubuntu-xenial-go_agent-raw.tgz">
-    <hash type="sha-512">cfb738d1e964b057cac77a393ff49df0dcfa8336839bedb8cef963c93d566a1a2a029c635db4d02cb08238ba4c0580dc82e859ac615d45bc98b0e0b575a61a07</hash>
-    <hash type="sha-256">e6f49c8af4d462d102e35c1d2ce0b92c7216e33a3b0cb1a32034f6919513789b</hash>
-    <hash type="sha-1">ee748608aec6a055965e7b7f432bb96d68ab5c40</hash>
-    <hash type="md5">a72abe785b7be8c02a9982db090198a5</hash>
-    <size>529070204</size>
+    <hash type="sha-512">110d9c7ea516595f3a057c95de727058cf4f31c88ecc271816ababc9a63f556fd8a960568d4717b445abec6726996ae5ddda816b15974dc63763922c404cd9cf</hash>
+    <hash type="sha-256">d80ed1ebd6a63df47b7983045dbfbc6ea01d2172f8ef334697a0f37f7be9a206</hash>
+    <hash type="sha-1">e0698503b8d7fb04ab98882187e56d48235efdd8</hash>
+    <hash type="md5">67ea272d80a73a2c487cb6d550d4d914</hash>
+    <size>520597271</size>
     <url>https://s3.amazonaws.com/bosh-core-stemcells-candidate/openstack/bosh-stemcell-456.36-openstack-kvm-ubuntu-xenial-go_agent-raw.tgz</url>
     <version>456.36</version>
   </file>
+  <file name="bosh-stemcell-456.36-openstack-kvm-ubuntu-xenial-go_agent.tgz">
+    <hash type="sha-512">69454f1ff2037ce820665ba98304230fad3f09859f4d0fc94274e5dcb325906be330a674a7bdb939822b4f007c532540bac25414417df489de7e93583f23019d</hash>
+    <hash type="sha-256">41a8cc7f075935fe24fc4a2a16054e08d85338690d56f09c4a7441d883b29578</hash>
+    <hash type="sha-1">08c33b2a69aebf5b393b1dd9fec77b9de0f79350</hash>
+    <hash type="md5">b5a634183779b0eac32069a83b847c8a</hash>
+    <size>557475515</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells-candidate/openstack/bosh-stemcell-456.36-openstack-kvm-ubuntu-xenial-go_agent.tgz</url>
+    <version>456.36</version>
+  </file>
   <generator>metalink-repository-resource/0.0.0</generator>
-  <published>2019-10-16T19:43:01.37775114Z</published>
+  <published>2019-10-16T21:01:29.458439515Z</published>
 </metalink>
