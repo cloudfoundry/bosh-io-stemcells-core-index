@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-stemcell-1.303-aws-xen-hvm-ubuntu-jammy-fips-go_agent.tgz">
+    <hash type="sha-512">a0fb9ff9f4fcfb03df2c23aed6ee63b196845ffe6d3019a585eefd30d530027f9c16ec5abf68cb3cbb6f98935726ea4fb96282a24bb25568504ac74a61041726</hash>
+    <hash type="sha-256">8698e29f4649a74d0af14cc01e84f4cc58ad6b79003beec14f60787321a7cd7e</hash>
+    <hash type="sha-1">6d4e32cacaaca8e3cbe8d4a32e5398ac9e126f70</hash>
+    <hash type="md5">a729dbef5e46c4f99a053d9147e33f7d</hash>
+    <size>1176880196</size>
+    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate-fips/aws/bosh-stemcell-1.303-aws-xen-hvm-ubuntu-jammy-fips-go_agent.tgz</url>
+    <version>1.303</version>
+  </file>
+  <file name="stemcell-trigger">
+    <hash type="md5">d41d8cd98f00b204e9800998ecf8427e</hash>
+    <hash type="sha-1">da39a3ee5e6b4b0d3255bfef95601890afd80709</hash>
+    <hash type="sha-256">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</hash>
+    <hash type="sha-512">cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</hash>
+    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate-fips/stemcell-trigger-1.303</url>
+    <version>1.303</version>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
