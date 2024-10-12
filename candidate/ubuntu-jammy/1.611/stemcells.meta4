@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-stemcell-1.611-alicloud-kvm-ubuntu-jammy-go_agent.tgz">
+    <hash type="sha-512">0b49f2b1bc9e7421badbbe772328cd64cd96bba6cb6c9e71ad0c76565342557a8a1d2f442641a60149ab9ea524069e9800d86ebf64935209ad64b2c5b16a2aa4</hash>
+    <hash type="sha-256">9052b504d1792e8c31548d7279b21607b989fb145cd820f44c5b7b8c0d787fb1</hash>
+    <hash type="sha-1">545eaad8359e4dabb7ea7b73677efdd48df4fd9a</hash>
+    <hash type="md5">5db17fdff5beb9a9e99fae91e248906e</hash>
+    <size>1236664046</size>
+    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/alicloud/bosh-stemcell-1.611-alicloud-kvm-ubuntu-jammy-go_agent.tgz</url>
+    <version>1.611</version>
+  </file>
+  <file name="bosh-stemcell-1.611-aws-xen-hvm-ubuntu-jammy-go_agent.tgz">
+    <hash type="sha-512">8a11a9da344a51632d612e7581cf95f7f808117eba62ec3152b157201a52548b624b3a8600e6792842dfa733fc0b8ff17b37d929ec2b6ced0667f9a678eeb4e4</hash>
+    <hash type="sha-256">83bc96ff4c13182c0452181699b212f9a6a76c2ae3f3f3de98869fda60e40e12</hash>
+    <hash type="sha-1">0700b7625acf9545ff6dcf9474d1312b60bced79</hash>
+    <hash type="md5">ce7fa8bf209fb1c93aed501a736cf0fc</hash>
+    <size>1237713641</size>
+    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/aws/bosh-stemcell-1.611-aws-xen-hvm-ubuntu-jammy-go_agent.tgz</url>
+    <version>1.611</version>
+  </file>
+  <file name="bosh-stemcell-1.611-azure-hyperv-ubuntu-jammy-go_agent.tgz">
+    <hash type="sha-512">82adc88d4f85d4096818558928a83436864297ac603cc4a8a5be25e67b0b55d367dcc1709f73d245d7c9f4bb113b5357630708c1ee5cba90439b4adcfae97dd7</hash>
+    <hash type="sha-256">b69e7d1add6e50f729768f75b0f9f407ffb587b9c8c09a24aca91e1042d66fb4</hash>
+    <hash type="sha-1">683dd43f04e272b544142756ca2d6154f084977b</hash>
+    <hash type="md5">9f439fa1f4adb81e8f29e2b9bd8d9b8f</hash>
+    <size>1252645248</size>
+    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/azure/bosh-stemcell-1.611-azure-hyperv-ubuntu-jammy-go_agent.tgz</url>
+    <version>1.611</version>
+  </file>
+  <file name="bosh-stemcell-1.611-google-kvm-ubuntu-jammy-go_agent.tgz">
+    <hash type="sha-512">ef970f6400e4a610d9a4b031a9ef617ddbe9b9427ce260c24dc473c381450b71e2fe9b9737efa22cc4d3faa80636ab2e22db836306cca541beb010652e4e16e6</hash>
+    <hash type="sha-256">1685a0fc9326d909cce6a53880d9389b690dee427169c380d44161a3b3b6fb6e</hash>
+    <hash type="sha-1">815f4692c99a5d88da68f704d3dc038e1a54968e</hash>
+    <hash type="md5">8b49e582cd4b9b3ea39f5728c61d3d9a</hash>
+    <size>1254652530</size>
+    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/google/bosh-stemcell-1.611-google-kvm-ubuntu-jammy-go_agent.tgz</url>
+    <version>1.611</version>
+  </file>
+  <file name="bosh-stemcell-1.611-openstack-kvm-ubuntu-jammy-go_agent-raw.tgz">
+    <hash type="sha-512">6ee39e9fcf755c8a7041c82ddfa64499c27b8c90ba20a5b556eb2d6f0557bce826c9be8e6f0040ff842ae1a4dfadac1781c2ca2479ab3ca4535f9e5ba3c868f8</hash>
+    <hash type="sha-256">8c5bdc2baea842624ec6c23892a493517123608c2b3932eaf85e0541cf0b8dcc</hash>
+    <hash type="sha-1">2a0a9e68227ca3cfb1768cee958ed66a4baab0b6</hash>
+    <hash type="md5">b384911be140e8fcdeedb381733494e8</hash>
+    <size>1237867975</size>
+    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/openstack/bosh-stemcell-1.611-openstack-kvm-ubuntu-jammy-go_agent-raw.tgz</url>
+    <version>1.611</version>
+  </file>
+  <file name="bosh-stemcell-1.611-openstack-kvm-ubuntu-jammy-go_agent.tgz">
+    <hash type="sha-512">58d1d7882d44b5d5a536f51ce8cd570847502aba63dd2f05cf5f30d9593d2e16813ab014a80434dffdb2711cbc29b844319ef036ab0bf171c90a4d06e38731c3</hash>
+    <hash type="sha-256">480f7d97357cb20e8eb322f71b91edc84fbf182cfd55eff10c57d50d77ad636d</hash>
+    <hash type="sha-1">69d26219ecc1ee792a1e1711a344f75be64a9985</hash>
+    <hash type="md5">58103a8de267d60cbfb39d883a40a234</hash>
+    <size>1322012602</size>
+    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/openstack/bosh-stemcell-1.611-openstack-kvm-ubuntu-jammy-go_agent.tgz</url>
+    <version>1.611</version>
+  </file>
+  <file name="bosh-stemcell-1.611-vcloud-esxi-ubuntu-jammy-go_agent.tgz">
+    <hash type="sha-512">845ad0697b4a0074d2b7ad4a52e1efa29ba3eab7a96b63d680b3010dac2b671f95432547910d3e896efa0b1a742f6721ab8e40e4bc73235a873226eeb487524b</hash>
+    <hash type="sha-256">fd44f80d372781fc0dd5f8738a091758a5214d4336b50a4f52d333e7007594e3</hash>
+    <hash type="sha-1">1f572c1050d1b443a9fa3a59c0dbb70ce0108bb2</hash>
+    <hash type="md5">4b3771198cbe8ac77ce47fca2c2f576a</hash>
+    <size>1348065257</size>
+    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/vcloud/bosh-stemcell-1.611-vcloud-esxi-ubuntu-jammy-go_agent.tgz</url>
+    <version>1.611</version>
+  </file>
+  <file name="bosh-stemcell-1.611-vsphere-esxi-ubuntu-jammy-go_agent.tgz">
+    <hash type="sha-512">2272c6cd44a3dff739a76d67338ecf14e0de7d53aac90a23a2790855a80e05e7a6135ad845bce7f9755284fb2801e4e3088a5ab382925c935b7fe72f12bbd977</hash>
+    <hash type="sha-256">962997351fc07a51788ae7ab5f12cd8ca44e4ac65de16dcfc6250b5413c3d0ca</hash>
+    <hash type="sha-1">4b19006843a077b9d576a923090097ebefd29c2b</hash>
+    <hash type="md5">43f389207aac90d3201f2ad8aa896bb0</hash>
+    <size>1348141046</size>
+    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/vsphere/bosh-stemcell-1.611-vsphere-esxi-ubuntu-jammy-go_agent.tgz</url>
+    <version>1.611</version>
+  </file>
+  <file name="bosh-stemcell-1.611-warden-boshlite-ubuntu-jammy-go_agent.tgz">
+    <hash type="sha-512">a6f94fe7892459245bb8c14260647c44d3af7e31b331aab78c4fe2d27d993695fe9a46ad1a7d34cedd242d1e53aa397ded1197d237b5fa1ae790c1c2e75c72cd</hash>
+    <hash type="sha-256">e8229babdc9b19c53a3bd9a1781e2c30b2f1860cfa97b022f801852b75a12259</hash>
+    <hash type="sha-1">dc458433c5ec5d20d82954232c2d0567e1bf14cb</hash>
+    <hash type="md5">d8e7a682f368ac0161dbe4bd082f4ade</hash>
+    <size>1232887329</size>
+    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/warden/bosh-stemcell-1.611-warden-boshlite-ubuntu-jammy-go_agent.tgz</url>
+    <version>1.611</version>
+  </file>
+  <file name="stemcell-trigger">
+    <hash type="md5">d41d8cd98f00b204e9800998ecf8427e</hash>
+    <hash type="sha-1">da39a3ee5e6b4b0d3255bfef95601890afd80709</hash>
+    <hash type="sha-256">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</hash>
+    <hash type="sha-512">cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</hash>
+    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/stemcell-trigger-1.611</url>
+    <version>1.611</version>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
