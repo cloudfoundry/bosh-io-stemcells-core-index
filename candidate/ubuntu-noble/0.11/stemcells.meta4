@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
-  <file name="bosh-stemcell-0.11-aws-xen-hvm-ubuntu-noble-go_agent.tgz">
-    <hash type="sha-512">6beeb034cdc7edc70ea9eef3be6347268e7f841b4eba5c6342541e6cc4101e2e79f28f924ca233775b1064d4b497116134f119790a4803b07cc6788b7b7b4d4a</hash>
-    <hash type="sha-256">879db896f025aba20bbb281786cb133eaa95952e23bd5b99ab8548b555e660af</hash>
-    <hash type="sha-1">17b2ef5021b912248faa940b183d531f1d9d744e</hash>
-    <hash type="md5">e25c246dc8ba63c3bd1f828739ad6485</hash>
-    <size>1218581549</size>
-    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/aws/bosh-stemcell-0.11-aws-xen-hvm-ubuntu-noble-go_agent.tgz</url>
-    <version>0.11</version>
-  </file>
   <file name="bosh-stemcell-0.11-aws-xen-hvm-ubuntu-noble.tgz">
     <hash type="sha-512">3257362c67609ed5e49acb9bd5dd15f92123e72008b77ffbb0a243742f11157781c9dbdeaa81d9c82188195c9e4275f0d490a7ca7b11fcfdce286fca41f6841b</hash>
     <hash type="sha-256">342d9d1c507da8cc48230ad4dd9f9876aedc5915c104cbff27c99f4fa4f234ca</hash>
@@ -16,15 +7,6 @@
     <hash type="md5">57546ef58c896d4deaa3733666d99b19</hash>
     <size>1246253040</size>
     <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/aws/bosh-stemcell-0.11-aws-xen-hvm-ubuntu-noble.tgz</url>
-    <version>0.11</version>
-  </file>
-  <file name="bosh-stemcell-0.11-azure-hyperv-ubuntu-noble-go_agent.tgz">
-    <hash type="sha-512">bf92d3d5844e4bb9a2fe3980ba568c3f0dad6961b0af5b7b4d1eaaca39a250c238b3f82a4de0864c2f4be73b2e8132e57be021e2c256ccb9c4dd4dc789eee03f</hash>
-    <hash type="sha-256">afca82ab699eeb6db41826f0df9ab8548fd3f9864daefcf52078d2aaebbb6213</hash>
-    <hash type="sha-1">85c310a96e5751c03b1d6441d8eb7cd10eb89e8c</hash>
-    <hash type="md5">7ca9c069d368aa7ace6dca3502241923</hash>
-    <size>1226558931</size>
-    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/azure/bosh-stemcell-0.11-azure-hyperv-ubuntu-noble-go_agent.tgz</url>
     <version>0.11</version>
   </file>
   <file name="bosh-stemcell-0.11-azure-hyperv-ubuntu-noble.tgz">
@@ -36,15 +18,6 @@
     <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/azure/bosh-stemcell-0.11-azure-hyperv-ubuntu-noble.tgz</url>
     <version>0.11</version>
   </file>
-  <file name="bosh-stemcell-0.11-google-kvm-ubuntu-noble-go_agent.tgz">
-    <hash type="sha-512">c0adefa8a509cc6c0b05da77ebeab252b8cd7479af4df07e95606a55a50edf65e0b9e5d1e6247343de4ae0357d004669957372344952337734de1c106dd1820d</hash>
-    <hash type="sha-256">6978a4d3cbc28a0b2b5fba2e8dead9d037fdb3b3ac99da3df75a7d1d683811b8</hash>
-    <hash type="sha-1">1926140b73998193a2ac1102e4eb4d46832e54d2</hash>
-    <hash type="md5">e6c36c4df1e19e981662611c41fbb577</hash>
-    <size>1236206695</size>
-    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/google/bosh-stemcell-0.11-google-kvm-ubuntu-noble-go_agent.tgz</url>
-    <version>0.11</version>
-  </file>
   <file name="bosh-stemcell-0.11-google-kvm-ubuntu-noble.tgz">
     <hash type="sha-512">1847ec95cc9215c10c66c5d6c84f5e52392068e94b7e8fe55661aefa0a5504327691e205cc31cf5d337d54c7ea53a48479b523a382cd7fc61e4f56a1fa8238a4</hash>
     <hash type="sha-256">443bbc15a5b1529aa65a267eca0543da2e856492cca0b61da17697229475ef2e</hash>
@@ -52,24 +25,6 @@
     <hash type="md5">50ec637e0f5354428a78f8dafda319ac</hash>
     <size>1263685002</size>
     <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/google/bosh-stemcell-0.11-google-kvm-ubuntu-noble.tgz</url>
-    <version>0.11</version>
-  </file>
-  <file name="bosh-stemcell-0.11-openstack-kvm-ubuntu-noble-go_agent-raw.tgz">
-    <hash type="sha-512">a1422ccbbf27e6dda69314bfcc033aa0fa6090cacc87b6b6733e863e564a27bee98e28ee98f1001d08648ebcfe63d2efe5f1fa689e7502b812e80075867775e3</hash>
-    <hash type="sha-256">c6bad9e2fdcbd6d523f5abf8365b41ad2f380ed6453918f7600639b39a6ceeb3</hash>
-    <hash type="sha-1">c06cd0e61c579cb0daeb794f66e363a666f159e7</hash>
-    <hash type="md5">a2835bbb6d67a5607f88df887809e14d</hash>
-    <size>1218919424</size>
-    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/openstack/bosh-stemcell-0.11-openstack-kvm-ubuntu-noble-go_agent-raw.tgz</url>
-    <version>0.11</version>
-  </file>
-  <file name="bosh-stemcell-0.11-openstack-kvm-ubuntu-noble-go_agent.tgz">
-    <hash type="sha-512">34e0fd993ba91317c1e51cd0bfa90257ed4c997dbc48eccdb98717f483ae48c8a7c5be35ebb96e27c5e1862ea4553111d78bf489b4830f895e423ebe31fd12d1</hash>
-    <hash type="sha-256">72ef295096d5ff4afa7d901a036ad21096d09abd331066df64a4d7c82d796b54</hash>
-    <hash type="sha-1">06dbc31869e30f2e1a3e849c179190968a8a5e71</hash>
-    <hash type="md5">ee68147f8e994c1fbb65b342b452ac5a</hash>
-    <size>1265612210</size>
-    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/openstack/bosh-stemcell-0.11-openstack-kvm-ubuntu-noble-go_agent.tgz</url>
     <version>0.11</version>
   </file>
   <file name="bosh-stemcell-0.11-openstack-kvm-ubuntu-noble-raw.tgz">
@@ -90,24 +45,6 @@
     <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/openstack/bosh-stemcell-0.11-openstack-kvm-ubuntu-noble.tgz</url>
     <version>0.11</version>
   </file>
-  <file name="bosh-stemcell-0.11-vcloud-esxi-ubuntu-noble-go_agent.tgz">
-    <hash type="sha-512">5f13fae8c2e90cefa4ecafa04777444ec321e0e721b9fadd910bc7da4e52be57742e9eefa716697133e5caef8f97cda549e79c40fc7923582459d4c018741283</hash>
-    <hash type="sha-256">f568dbf06aeccd977d5df95f0b3199dcf066f64f797d6ac478088ff00418259b</hash>
-    <hash type="sha-1">90c2bd6a87d7a3760ac7bfbac0f43d861b783acc</hash>
-    <hash type="md5">ab1d9fe924499d3f6d166fb9f47b850d</hash>
-    <size>1287230817</size>
-    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/vcloud/bosh-stemcell-0.11-vcloud-esxi-ubuntu-noble-go_agent.tgz</url>
-    <version>0.11</version>
-  </file>
-  <file name="bosh-stemcell-0.11-vsphere-esxi-ubuntu-noble-go_agent.tgz">
-    <hash type="sha-512">3f42e7642fc57c95bcc49da05548fdfef40b6aa221676ce8fc71551fe2832ff176047663fff9e581d02330a3e2644738242c7becc86f6445b85e92809143d09a</hash>
-    <hash type="sha-256">df553b37abc6bbcf4e5d11f2f0c8f1b038fe2e051db4e5c5a87bea5d62fc111a</hash>
-    <hash type="sha-1">fbe2c84cf582433f56a616afecb592e678ef27a5</hash>
-    <hash type="md5">05d7a18d2bf676991a14e9bccd92e2cf</hash>
-    <size>1287270236</size>
-    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/vsphere/bosh-stemcell-0.11-vsphere-esxi-ubuntu-noble-go_agent.tgz</url>
-    <version>0.11</version>
-  </file>
   <file name="bosh-stemcell-0.11-vsphere-esxi-ubuntu-noble.tgz">
     <hash type="sha-512">805b7d4de804f85fc87a02b5e512c92639b81601d04eb3470dfd39b753141a9d5ba7582e81bdc72ff079fbc72e6cfea2e42fb3b0d549194ada65fb91110b2610</hash>
     <hash type="sha-256">d8c3a0924b6b0e7522b19330c4e168207c6ea609c9e4889fa707cbd4f772fdab</hash>
@@ -115,15 +52,6 @@
     <hash type="md5">35d68759539ae032962796041511b098</hash>
     <size>1315242455</size>
     <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/vsphere/bosh-stemcell-0.11-vsphere-esxi-ubuntu-noble.tgz</url>
-    <version>0.11</version>
-  </file>
-  <file name="bosh-stemcell-0.11-warden-boshlite-ubuntu-noble-go_agent.tgz">
-    <hash type="sha-512">e8f0fbab2afdb8fc1fbb23b8479c7cd4f3ad515b48ce339e0100cd8e3a5183227b2a74094f07b4b3169167dc8ca6353eb11d5b26a57e1178ac2f9eb6dd891bfd</hash>
-    <hash type="sha-256">724c86d745c4a6a634ee890fe0d09adf9bd9194f05b3077b1f15f230fc052b5a</hash>
-    <hash type="sha-1">9b3a7075ddfcd7d597a5cffd49626c6b98233a15</hash>
-    <hash type="md5">9c8cb2a872f089d8e9384e037a33c1d4</hash>
-    <size>1212909370</size>
-    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate/warden/bosh-stemcell-0.11-warden-boshlite-ubuntu-noble-go_agent.tgz</url>
     <version>0.11</version>
   </file>
   <file name="bosh-stemcell-0.11-warden-boshlite-ubuntu-noble.tgz">
