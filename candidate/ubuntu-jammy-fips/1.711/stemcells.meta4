@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-stemcell-1.711-aws-xen-hvm-ubuntu-jammy-fips-go_agent.tgz">
+    <hash type="sha-512">c54382941dc20a9952e1b7e7b5d30a92e3881878dd5bef389dad8d46f7bf6c03757fb84d30699d242746830a858a180a136c46681c0e80f79ac58fdb2ee5d00e</hash>
+    <hash type="sha-256">ac1c633a856d4e628351473f3dd76e08b312b34174186c57b249c2f7f086f1d9</hash>
+    <hash type="sha-1">84fdbc3dea6d51a03dd950ff51bb83cb9f2d4407</hash>
+    <hash type="md5">c219e24b0533cd82354de5579599ea6b</hash>
+    <size>1280937323</size>
+    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate-fips/aws/bosh-stemcell-1.711-aws-xen-hvm-ubuntu-jammy-fips-go_agent.tgz</url>
+    <version>1.711</version>
+  </file>
+  <file name="bosh-stemcell-1.711-google-kvm-ubuntu-jammy-fips-go_agent.tgz">
+    <hash type="sha-512">beb322434158f8ba8683fc7c3eadc97653e719a0c068beddeef421e7a6c123599f32630fb585313bef5e3d5f20859845f803d7d00fccf2cc16b016cfc0b95e23</hash>
+    <hash type="sha-256">a699aa137e5eab427ebbc15acf7f920da5a52bb579d96b64ade58dbbeb85930f</hash>
+    <hash type="sha-1">cb031356014d3d475c19fe481a7c446218c9d7d8</hash>
+    <hash type="md5">afedfa8e283b0c44e5e6812332eeda6f</hash>
+    <size>1262621140</size>
+    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate-fips/google/bosh-stemcell-1.711-google-kvm-ubuntu-jammy-fips-go_agent.tgz</url>
+    <version>1.711</version>
+  </file>
+  <file name="stemcell-trigger">
+    <hash type="md5">d41d8cd98f00b204e9800998ecf8427e</hash>
+    <hash type="sha-1">da39a3ee5e6b4b0d3255bfef95601890afd80709</hash>
+    <hash type="sha-256">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</hash>
+    <hash type="sha-512">cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</hash>
+    <url>https://storage.googleapis.com/bosh-core-stemcells-candidate-fips/stemcell-trigger-1.711</url>
+    <version>1.711</version>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
